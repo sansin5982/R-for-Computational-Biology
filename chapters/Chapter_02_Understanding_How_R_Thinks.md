@@ -5,7 +5,6 @@ Sandeep Kumar Singh, PhD
 - [Chapter 2 — Understanding How R
   Thinks](#chapter-2--understanding-how-r-thinks)
   - [Chapter Purpose](#chapter-purpose)
-  - [Learning Outcomes](#learning-outcomes)
   - [Chapter Roadmap](#chapter-roadmap)
   - [Mental Model](#mental-model)
   - [1. Objects, Names and Values](#1-objects-names-and-values)
@@ -45,17 +44,6 @@ attributes, recycling, and the difference between names and values.
 This chapter keeps the course centered on **R programming**. Biological
 examples are used to reinforce the same programming ideas after they are
 understood on simpler data.
-
-## Learning Outcomes
-
-By the end of the chapter, the learner should be able to:
-
-- explain names, values, and assignment
-- inspect type and structure rather than guessing
-- predict basic coercion and recycling
-- distinguish `NA`, `NaN`, `Inf`, and `NULL`
-- reason about vectorized expressions
-- recognize attributes as metadata attached to objects
 
 ## Chapter Roadmap
 
