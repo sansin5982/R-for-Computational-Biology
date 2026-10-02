@@ -5,7 +5,6 @@ Sandeep Kumar Singh, PhD
 - [Chapter 3 — Mastering R Data
   Structures](#chapter-3--mastering-r-data-structures)
   - [Chapter Purpose](#chapter-purpose)
-  - [Learning Outcomes](#learning-outcomes)
   - [Chapter Roadmap](#chapter-roadmap)
   - [Mental Model](#mental-model)
   - [1. Atomic Vectors](#1-atomic-vectors)
@@ -47,18 +46,6 @@ manipulation frameworks.
 This chapter keeps the course centered on **R programming**. Biological
 examples are used to reinforce the same programming ideas after they are
 understood on simpler data.
-
-## Learning Outcomes
-
-By the end of the chapter, the learner should be able to:
-
-- construct and inspect vectors, matrices, arrays, lists, factors, and
-  data frames
-- choose an appropriate structure for a task
-- understand dimensions and names
-- navigate nested lists
-- explain factor levels and common pitfalls
-- recognize how biological data often use structured objects
 
 ## Chapter Roadmap
 
