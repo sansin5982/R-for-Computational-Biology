@@ -1,0 +1,9 @@
+theme: jekyll-theme-cayman
+
+# Navigation (Optional)
+title: "R for Computational Biology"
+description: "Fundamentals of R for Computational Biologist."
+
+# Enable navigation links
+include:
+  - chapters/
