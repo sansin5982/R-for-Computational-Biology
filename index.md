@@ -8,3 +8,4 @@ Chapters:
   Thinks](chapters/Chapter_02_Understanding_How_R_Thinks)
 - [Mastering R Data
   Structures](chapters/Chapter_03_Mastering_R_Data_Structures)
+- [Indexing\_Subsetting\_and\_Data\_Extraction](chapters/Indexing_Subsetting_and_Data_Extraction)
